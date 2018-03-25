@@ -1,6 +1,6 @@
 {
   "name": "callbag-drop-until",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "👜 Callbag operator that drops emitted values from source until provided observable emits.",
   "main": "dist/callbag-drop-until.js",
   "module": "dist/callbag-drop-until.es.js",
